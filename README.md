@@ -112,6 +112,36 @@ Verification
 
 Ticket Closure
 
----
 
-This repository is intended for educational purposes and demonstrates enterprise IT support documentation practices.
+enterprise-it-support-knowledge-base/
+│
+├── README.md
+│
+├── Windows/
+│   ├── Ticket-001-Windows-Login-Failure.md
+│   ├── Ticket-002-BlueScreen.md
+│   ├── Ticket-003-Slow-PC.md
+│
+├── Networking/
+│   ├── Ticket-004-No-Internet.md
+│   ├── Ticket-005-DNS-Issue.md
+│
+├── Active-Directory/
+│
+├── Office365/
+│
+├── Outlook/
+│
+├── VPN/
+│
+├── Printers/
+│
+├── Linux/
+│
+├── SQL/
+│
+├── ServiceNow/
+│
+├── SOPs/
+│
+└── Images/
