@@ -249,3 +249,4 @@ Closed
 # Resolution Time
 
 22 Minutes
+
